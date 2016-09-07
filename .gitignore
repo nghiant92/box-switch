@@ -1,0 +1,7 @@
+# For 3D box
+# Temporary files
+*.3dmbak
+*.dxf
+*.bak
+*.rhl
+
